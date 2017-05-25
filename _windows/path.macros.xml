@@ -1,5 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="mysql" value="C:/Android/EjemploMySql5/app/libs/mysql-connector-java-3.1.14/mysql-connector-java-3.1.14-bin.jar" />
+    <macro name="mysql2" value="C:/Android/EjemploMySql5/mysql-connector-java-3.1.14-bin" />
   </component>
 </application>
